@@ -7,20 +7,16 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: '逸刻AI应用创新大赛指南',
+    description: `欢迎参加逸刻AI应用创新赛。这是一个展示创意、学习新技能、共同成长的绝佳机会。让我们用AI点燃创新火花!`,
+    imgSrc: '/static/images/逸刻AI应用创新大赛指南.png',
+    href: 'https://atelierqin.cn',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: '逸刻拓店GSA计划',
+    description: `运用GSA（Goal-Strategy-Action）战略规划逸刻便利店拓展目标。`,
+    imgSrc: '/static/images/逸刻拓店GSA计划.png',
+    href: 'https://atelierqin.io',
   },
 ]
 
